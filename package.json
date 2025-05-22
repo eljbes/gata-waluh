@@ -1,0 +1,13 @@
+{
+  "name": "gata-airdrop-bot",
+  "version": "1.0.0",
+  "description": "Gata Airdrop Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0"
+  }
+}
